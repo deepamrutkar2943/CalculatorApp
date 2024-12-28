@@ -2,4 +2,5 @@
 Calculator app using react native and expo
 ```
 
-![]([https://drive.google.com/file/d/17WYsP4wPThe-NNxbIki-VzzkZRbC6Hun/view?usp=sharing](https://drive.google.com/file/d/17WYsP4wPThe-NNxbIki-VzzkZRbC6Hun/view?usp=sharing))
+![image](https://github.com/user-attachments/assets/87702a70-a32d-450f-86c6-9630ea5d62ee)
+
